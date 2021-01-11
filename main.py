@@ -21,7 +21,7 @@ while True:
         hour = hour - 5
 
     elif city == "Nairobi":
-        hour == hour + 3
+        hour = hour + 3
 
     elif city == "Seattle":
         hour = hour - 7
@@ -34,6 +34,12 @@ while True:
 
     elif city == " Shanghai":
         hour = hour + 8
+
+    elif city == "Dallas":
+        hour = hour -6
+
+    elif city == "Islamabad":
+        hour = hour + 5
 
     elif city == " Kolkata":
         hour = hour + 5
