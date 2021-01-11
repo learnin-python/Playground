@@ -47,4 +47,6 @@ while True:
         print(city, "is not added")
         city = "GMT"
 
+    #Printing the name of the city and it's corresponding time
+
     print(city, str(hour) + ":" + str(minute) + ":" + str(second))
